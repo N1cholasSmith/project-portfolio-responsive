@@ -2,3 +2,40 @@
     margin: 0;
     padding: 0;
 }
+
+/* Navbar */
+.navbar-nav{
+    font-size: 18px;
+
+}
+
+/* Button */
+.btn:hover{
+    color:white
+}
+
+/* Progress Bar */
+.progress{
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.5s ease;
+}
+
+.progress:hover {
+    transform: scale(1.1)
+}
+
+/* Service Cards */
+.card{
+    transition: all 0.5s ease;
+}
+
+.card img{
+    height: 200px;
+    Width: 200px;
+    Margin: auto;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 2px 10px black;
+}
