@@ -22,7 +22,7 @@ My Project Portfolio displays the technical excellence I possess as a Full Stack
 The Responsive Project Portfolio is easily naviagted through the sitcky Navbar. You're able to download my Brand Statement with the "Hire Me" button and the "Download CV" button will download my CV. There are multiple buttons that can link you all over the page making it fun and dynamic. The Icons displayed in the footer Link to the associated social media platform.
 
     
-![Project Portfolio](/assets/images/screenshot.PNG)
+![Project Portfolio](./assets/images/screenshot.PNG)
 
 
     
