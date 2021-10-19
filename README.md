@@ -8,7 +8,7 @@
 ## Description
 My Project Portfolio displays the technical excellence I possess as a Full Stack Web Developer and the values that have shaped me as a professional software engineer. The motivating factor behind my portfolio is to show my professional excellence and continual improvement in a form that can be visualized and showcased. The projects I have completed are displayed within this webpage and available for review and speculation. I am able to be contacted through the contact form at the bottom if you wish to send an email. You can also download my brand statement and CV for further information. The Navbar has a projects dropdown which will like you to my featured projects deployed websites and their associated repositories.
 
-[nsmithprojectportfolio.com](https://github.com/N1cholasSmith/project-portfolio-responsive)
+[NicholasSmithSoftwareEngineer.com](https://github.com/N1cholasSmith/project-portfolio-responsive)
 ---
 ## Table of Contents
 - [Usage] (#usage)
